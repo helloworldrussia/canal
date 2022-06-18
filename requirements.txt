@@ -1,0 +1,5 @@
+gspread
+environs
+psycopg2
+requests
+django-cors-headers
